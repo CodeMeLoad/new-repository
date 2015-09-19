@@ -24,6 +24,7 @@ void DisplayOn();
 void clearscr(int n);
 void chipselect(int n);
 void Mode1setup();
+void ModeLogo();
 void delay();
 
 void SetY(uint16_t Ypin);
